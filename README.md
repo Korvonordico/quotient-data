@@ -1,4 +1,8 @@
-# Quotient shared average
+<p align="center">
+  <img src="docs/logo.png" width="45%" alt="Token Quotient shared average">
+</p>
+
+<h1 align="center">Quotient shared average</h1>
 
 When you install [Quotient](https://github.com/Korvonordico/quotient-claude-tokens), it doesn't know yet how your estimates compare with what your jobs really cost. It learns that from your own jobs, but at the start you have none. This repository fills that gap. It holds one small file, [`average.json`](average.json), with what jobs cost for other Quotient users compared with what was estimated.
 
