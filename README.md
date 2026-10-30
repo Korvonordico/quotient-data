@@ -33,7 +33,3 @@ Full details: [PRIVACY.md](https://github.com/Korvonordico/quotient-claude-token
 ## Right now
 
 The average still comes almost entirely from my own jobs, all on Opus. It will become a real shared average as more people use Quotient. If you do, leaving sharing on helps whoever comes next.
-
----
-
-**In italiano.** Questo progetto contiene un solo file, `average.json`: la media di quanto sono costati davvero i lavori degli utenti di Quotient rispetto alla stima. Serve a chi installa Quotient da zero, finché non ha 5 lavori suoi. La media è divisa per modello (Opus, Sonnet e gli altri). Se il tuo modello non c'è ancora, si usa la media di tutti. Una famiglia compare da sola quando ha almeno 30 lavori. Si mandano solo numeri arrotondati: niente date, testi, nomi o identificativi. Per ora la media viene quasi tutta dai miei lavori su Opus.
