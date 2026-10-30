@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" width="75%" alt="Token Quotient shared average">
+  <img src="docs/quotient-data-logo.png" width="75%" alt="Token Quotient shared average">
 </p>
 
 <h1 align="center">Quotient shared average</h1>
