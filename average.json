@@ -1,19 +1,19 @@
 {
  "schema": 1,
- "updated": "2026-10-21",
+ "updated": "2026-11-04",
  "method": "factor = median of real cost / raw estimate over the most recent jobs (500 per model family, 2000 in all), on a log scale, after dropping jobs more than 3 robust standard deviations (MAD) away from the median, never closer than x1.5; rounded to 2 decimals. Nothing is published below 30 jobs, in all or for a family. The file changes at most once a week and only after at least 20 new jobs, so someone who only watches it cannot tell a single job apart. It is a best-effort average: anyone can send numbers, so it is bounded and every copy of Quotient accepts it only between x0.25 and x4.",
  "all": {
-  "jobs": 65,
-  "factor": 1.18,
-  "p25": 0.52,
-  "p75": 1.89
+  "jobs": 113,
+  "factor": 1,
+  "p25": 0.37,
+  "p75": 1.94
  },
  "families": {
   "opus": {
-   "jobs": 65,
-   "factor": 1.18,
-   "p25": 0.52,
-   "p75": 1.89
+   "jobs": 113,
+   "factor": 1,
+   "p25": 0.37,
+   "p75": 1.94
   }
  }
 }
